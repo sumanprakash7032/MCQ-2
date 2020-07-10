@@ -1,0 +1,50 @@
+﻿Question 1:
+Although helium occurs in Earthâ€™s atmosphere only to the extent of 1 part in 200,000 (0.0005 percent) and small amounts occur in radioactive minerals, meteoric iron, and mineral springs, great volumes of helium are found as a component (_____) in natural gases in the United States (especially in Texas, New Mexico, Kansas, Oklahoma, Arizona, and Utah).
+
+Answer:
+up to 7.6 percent
+
+Incorrect answers:
+up to 7.3 percent 
+up to 7.8 percent 
+up to 7.9 percent 
+
+Question 2:
+Helium constitutes _____ of the mass of the universe and is thus second in abundance to hydrogen in the cosmos.
+
+Answer:
+about 23 percent
+
+Incorrect answers:
+about 22 percent 
+about 21 percent 
+about 27 percent 
+
+Question 3:
+Although helium occurs in Earthâ€™s atmosphere only to the extent of 1 part in 200,000 (_____) and small amounts occur in radioactive minerals, meteoric iron, and mineral springs, great volumes of helium are found as a component (up to 7.6 percent) in natural gases in the United States (especially in Texas, New Mexico, Kansas, Oklahoma, Arizona, and Utah).
+
+Answer:
+0.0005 percent
+
+Incorrect answers:
+65.69 percent 
+69.93 percent 
+73.31 percent 
+
+Question 4:
+Ordinary air contains about 5 parts per million of helium, and Earthâ€™s crust is _____ parts per billion.
+
+Answer:
+only about 8
+
+Incorrect answers:
+only about 9 
+only about 7 
+only about 6 
+
+
+
+
+Output History:-
+Date:-2020-07-10
+Time:-19:19:00.001326
